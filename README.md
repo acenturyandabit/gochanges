@@ -1,6 +1,5 @@
-# gochanges: a website changes tracker for developers
-
-![gochanges logo](images/gochanges.png)
+# gohttpchanges: a http change tracker / website change tracker / webpage change tracker for developers
+<!-- I repeat a bunch of things in the title for more search engine hits :) -->
 
 gochanges is a website changes tracker for developers (packaged as a microservice).
 
@@ -85,8 +84,6 @@ Built with <img src="images/docker-logo.png" style="height:1em"/>
 <img src="images/golang-logo.png" style="height:1em"/>
 <img src="images/mongodb-logo.png" style="height:1em"/>
 
-![Go workflow](https://github.com/edoardottt/gochanges/workflows/Go/badge.svg) [![Go report card](https://goreportcard.com/badge/github.com/edoardottt/gochanges)](https://goreportcard.com/report/github.com/edoardottt/gochanges) ![license AGPLv3.0](images/licenseBadge.svg)
-
-Coded with 💙 by [edoardottt](https://edoardoottavianelli.it), revived by acenturyandabit 2024.
+Inspired by a project by [edoardottt](https://edoardoottavianelli.it), revived by acenturyandabit 2024.
 
 This repository is under [GNU Affero General Public License v3.0](https://github.com/edoardottt/gochanges/blob/master/LICENSE).
